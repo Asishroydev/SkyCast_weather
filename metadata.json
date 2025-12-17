@@ -1,0 +1,5 @@
+{
+  "name": "SkyCast",
+  "description": "A beautiful, AI-powered weather dashboard providing real-time conditions and hourly forecasts using Gemini's search capabilities.",
+  "requestFramePermissions": []
+}
